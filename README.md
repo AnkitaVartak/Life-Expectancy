@@ -31,4 +31,3 @@ Variable Descriptions
 21.	income_composition_of_resources (Ratio) - Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
 22.	schooling (Ratio) – the average number of years of schooling of a population
 
-![image](https://user-images.githubusercontent.com/30788289/192111691-51386010-6187-42b1-9dc0-9a7e536f551b.png)
